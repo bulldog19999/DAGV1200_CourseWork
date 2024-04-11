@@ -1,0 +1,67 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.95221606)
+
+newmtl blinn2SG
+kd 0.45 0.24 0.03
+ka 0 0 0
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+illum 1
+
+newmtl blinn3SG
+kd 0.29 0.04 0.02
+ka 0 0 0
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+illum 1
+
+newmtl blinn4SG
+kd 0.25 0.14 0.01
+ka 0 0 0
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+illum 1
+
+newmtl blinn5SG
+kd 0.84 0.84 0.84
+ka 0 0 0
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+illum 1
+
+newmtl blinn6SG
+kd 0.5 0.5 0.5
+ka 0 0 0
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+illum 1
+
+newmtl initialShadingGroup
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert2SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl lambert3SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
